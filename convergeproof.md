@@ -3,4 +3,4 @@ More specifically, the **De Moivre-Laplace Theorem** asserts that a normal and b
 
 These theorems are demonstrated by the following figures, showing a binomial distrbution and a normal distribution of `N = 1000000` respectively.
 
-[converge_figs.png](https://github.com/BenPelczy/msds-python/blob/main/converge_figs.png)
+![.](https://github.com/BenPelczy/msds-python/blob/main/converge_figs.png)
